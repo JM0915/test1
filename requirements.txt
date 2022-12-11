@@ -1,6 +1,5 @@
-open-cv
+opencv
 numpy
 tensorflow
 smtplib
 email
-open-cv
